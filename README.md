@@ -37,7 +37,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-<a href="">Video
+<a href="https://youtu.be/u6ApswXMh70">Video
 </a>
 
 ## Notes
